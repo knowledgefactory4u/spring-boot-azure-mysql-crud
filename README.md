@@ -10,6 +10,6 @@ Step 2:  ```mvn clean install```
 
 Step 3:  ```mvn spring-boot:run```
 
-More Info - https://www.knowledgefactory.net/2022/07/azure-database-for-postgresql-single-server-spring-boot-build-rest-crud-apis.html
+More Info - https://www.knowledgefactory.net/2022/07/azure-database-for-mysql-single-server-spring-boot-build-rest-crud-apis.html
 
 
